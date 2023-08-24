@@ -22,3 +22,4 @@
 ![Python](https://img.shields.io/badge/-Python%203-3776AB?style=flat&logo=Python&logoColor=white)    
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 
+ ![Gogapy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gogapy&theme=dark&show_icons=true&hide_border=true&layout=compact)

@@ -1,4 +1,4 @@
-### Languages and Tools 🔡🛠️
+### Languages and Tools 🛠️
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=falt&logo=JavaScript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=TypeScript&logoColor=white)

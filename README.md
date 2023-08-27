@@ -1,4 +1,4 @@
-<h1>I'm Goga</h1>
+<h1>I'm Goga (<a href="https://gogapy.github.io/" target="_blank" style="color:white;">Personal Page</a>)</h1>
 
 ### Languages and Tools 🛠️
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=falt&logo=JavaScript&logoColor=white)
@@ -23,3 +23,5 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 
  ![Gogapy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gogapy&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+<h1></h1>

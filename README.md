@@ -1,4 +1,4 @@
-<h1>I'm Goga</h1> <a href="gogapy.github.io">
+<h1>I'm Goga</h1> <a href="https://gogapy.github.io/">Peronal Page</a>
 
 ### Languages and Tools 🛠️
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=falt&logo=JavaScript&logoColor=white)

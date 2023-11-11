@@ -1,4 +1,4 @@
-<h1>I'm Goga</h1> <a href="https://gogapy.github.io/">Peronal Page</a>
+<h1>I'm Goga - (<a href="https://gogapy.github.io/" target="_blank">Personal Page</a>)</h1> 
 
 ### Languages and Tools 🛠️
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=falt&logo=JavaScript&logoColor=white)

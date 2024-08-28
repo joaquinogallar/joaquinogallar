@@ -1,5 +1,9 @@
 <h1 align="left">Joaquin Ogallar - Backend Developer</h1>
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaquinogallar&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinogallar&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
+
 <h3 align="left">Languages and Tools 🛠️</h3>
 <p align="left">  
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -24,6 +28,3 @@
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaquinogallar&theme=dracula&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinogallar&theme=dracula&show_icons=true&hide_border=true&layout=compact)

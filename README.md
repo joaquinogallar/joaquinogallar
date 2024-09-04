@@ -2,7 +2,7 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaquinogallar&theme=dracula&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinogallar&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-
+![joaquinogallar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaquinogallar&theme=xcode&custom_title=My%20Activity&hide_border=true)
 
 <h3 align="left">Languages and Tools 🛠️</h3>
 <p align="left">  

@@ -1,7 +1,7 @@
 <h1 align="left">Joaquin Ogallar - Backend Developer</h1>
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaquinogallar&theme=dracula&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinogallar&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinogallar&hide_progress=true&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 <h3 align="left">Languages and Tools 🛠️</h3>
 <p align="left">  

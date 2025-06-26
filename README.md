@@ -1,10 +1,10 @@
 <h1 align="left">Joaquin Ogallar - Backend Developer</h1>
 
-<p align="left">📍 Buenos Aires, currently working at <strong>Redvision</strong></p>
+<p align="left">Buenos Aires, currently working at <strong>Redvision</strong></p>
 
 ---
 
-### 🔥 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaquinogallar&theme=dracula&hide_border=true" alt="GitHub Streak"/>
@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
 
@@ -32,7 +32,7 @@
 
 ---
 
-### 📚 Currently Learning
+### Currently Learning
 
 <div align="left" style="display: flex; gap: 20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60" style="border-radius: 12px;"/>
@@ -41,7 +41,7 @@
 
 ---
 
-### 📈 Activity Graph
+### Activity Graph
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaquinogallar&theme=xcode&custom_title=My%20Activity&hide_border=true" alt="GitHub Activity Graph"/>

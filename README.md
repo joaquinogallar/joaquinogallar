@@ -7,9 +7,11 @@
 ### GitHub Stats
 
 <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinogallar&layout=donut&theme=dracula&hide_border=true" alt="Top Languages Donut Horizontal"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaquinogallar&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinogallar&hide_progress=true&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
 </p>
+
+
 
 ---
 

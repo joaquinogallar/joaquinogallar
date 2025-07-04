@@ -1,4 +1,4 @@
-<h1 align="left">Joaquin Ogallar - Backend Developer</h1>
+<h1 align="left">Joaquin Ogallar - Backend Developer</h1> 
 
 <p align="left">Buenos Aires, currently working at <strong>Redvision</strong></p>
 

@@ -9,7 +9,7 @@ I'm grateful to be doing what I love: building software. I'm a backend developer
 ![My Skills](https://skillicons.dev/icons?i=java,python,js)
 
 ### Tools & Frameworks
-![Skills](https://skillicons.dev/icons?i=spring,docker,git,postman,linux)
+![Skills](https://skillicons.dev/icons?i=spring,docker,git,linux)
 
 ### Cloud & Databases
 ![Skills](https://skillicons.dev/icons?i=aws,mongodb,postgresql)

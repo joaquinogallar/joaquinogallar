@@ -3,7 +3,7 @@
 <p align="left">Buenos Aires, currently working at <strong>Redvision</strong></p>
 
 ### Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,html,css,postman,mongodb,python,js,git,postgresql)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=java,spring,docker,aws,html,css,postman,mongodb,python,js,linux,git,postgresql)
 
 ### Github Stats
 ![joaquinogallar stats](https://github-readme-stats.vercel.app/api?username=joaquinogallar&show_icons=true&theme=tokyonight&hide_border=true) </br>

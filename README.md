@@ -1,9 +1,18 @@
-<h1 align="left">Joaquin Ogallar - Backend Developer</h1> 
+<h1 align="left">Joaquin Ogallar</h1> 
 
 <p align="left">Buenos Aires, currently working at <strong>Redvision</strong></p>
 
-### Languages & Tools
-![My Skills](https://skillicons.dev/icons?i=java,spring,docker,aws,html,css,postman,mongodb,python,js,linux,git,postgresql)
+### About me
+I'm grateful to be doing what I love: building software. I'm a backend developer with a growing interest in Data Science. Outside of coding, I enjoy reading, playing the bass, and making music.
+
+### Main Languages
+![My Skills](https://skillicons.dev/icons?i=java,python,js)
+
+### Tools & Frameworks
+![Skills](https://skillicons.dev/icons?i=spring,docker,git,postman,linux)
+
+### Cloud & Databases
+![Skills](https://skillicons.dev/icons?i=aws,mongodb,postgresql)
 
 ### Github Stats
 ![joaquinogallar stats](https://github-readme-stats.vercel.app/api?username=joaquinogallar&show_icons=true&theme=tokyonight&hide_border=true) </br>

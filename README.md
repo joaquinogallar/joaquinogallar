@@ -3,7 +3,7 @@
 Buenos Aires, currently working at **Redvision**
 
 ### About me
-I'm grateful to be doing what I love: building software. I'm a backend developer with a growing interest in Data Science. Outside of coding, I enjoy reading, playing the bass, and making music.
+I'm grateful to be doing what I love: solving problems by building software. I'm a backend developer with a growing interest in Data Science. Outside of coding, I enjoy reading, playing the bass.
 
 ### Main Languages
 ![My Skills](https://skillicons.dev/icons?i=java,python,js)
@@ -20,3 +20,5 @@ I'm grateful to be doing what I love: building software. I'm a backend developer
 
 ### Activity graph
 ![joaquinogallar activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaquinogallar&theme=tokyo-night&hide_border=true)
+
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/joaquin-ogallar-a90b2424b/) | [Email](mailto:joaquinnogallar@gmail.com) | [Portfolio](https://joaquinogallar.github.io/)

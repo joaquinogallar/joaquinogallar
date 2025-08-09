@@ -1,6 +1,6 @@
-<h1 align="left">Joaquin Ogallar</h1> 
+# Joaquin Ogallar 
 
-<p align="left">Buenos Aires, currently working at <strong>Redvision</strong></p>
+Buenos Aires, currently working at **Redvision**
 
 ### About me
 I'm grateful to be doing what I love: building software. I'm a backend developer with a growing interest in Data Science. Outside of coding, I enjoy reading, playing the bass, and making music.

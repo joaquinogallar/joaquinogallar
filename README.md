@@ -22,3 +22,5 @@ I'm grateful to be doing what I love: solving problems by building software. I'm
 ![joaquinogallar activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaquinogallar&theme=tokyo-night&hide_border=true)
 
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/joaquin-ogallar-a90b2424b/) | [Email](mailto:joaquinnogallar@gmail.com) | [Portfolio](https://joaquinogallar.github.io/)
+
+![](https://komarev.com/ghpvc/?username=joaquinogallar&color=blue)

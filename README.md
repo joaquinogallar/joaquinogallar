@@ -1,6 +1,8 @@
 # Joaquin Ogallar 
 
-Buenos Aires, currently working at **Redvision**
+Buenos Aires, currently working at **Distribuidora Sabbatini**
+
+![**LeetCode Profile**](https://leetcode.com/u/joaquinogallar/)
 
 ### About me
 I'm grateful to be doing what I love: solving problems by building software. I'm a backend developer with a growing interest in Data Science. Outside of coding, I enjoy reading and playing the bass.

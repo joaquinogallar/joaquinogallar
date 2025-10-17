@@ -8,7 +8,7 @@ Buenos Aires, currently working at **Distribuidora Sabbatini**
 I'm grateful to be doing what I love: solving problems by building software. I'm a backend developer with a growing interest in Data Science. Outside of coding, I enjoy reading and playing the bass.
 
 ### Main Languages
-![My Skills](https://skillicons.dev/icons?i=java,python,js,kotlin)
+![My Skills](https://skillicons.dev/icons?i=java,python,js)
 
 ### Tools & Frameworks
 ![Skills](https://skillicons.dev/icons?i=spring,docker,git,linux)

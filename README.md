@@ -19,6 +19,7 @@ I'm grateful to be doing what I love: solving problems by building software. I'm
 ### Github Stats
 ![joaquinogallar stats](https://github-readme-stats.vercel.app/api?username=joaquinogallar&show_icons=true&theme=tokyonight&hide_border=true) </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinogallar&layout=donut&theme=tokyonight&hide_border=true) </br>
+![GitHub Streak](https://streak-stats.demolab.com/?user=joaquinogallar&theme=tokyonight&hide_border=true)
 
 ### Activity graph
 ![joaquinogallar activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaquinogallar&theme=tokyo-night&hide_border=true)

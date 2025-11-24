@@ -11,7 +11,7 @@ I'm grateful to be doing what I love: solving problems by building software. I'm
 ![My Skills](https://skillicons.dev/icons?i=java,python,js)
 
 ### Tools & Frameworks
-![Skills](https://skillicons.dev/icons?i=spring,docker,git,linux)
+![Skills](https://skillicons.dev/icons?i=spring,docker,git,linux,bash)
 
 ### Cloud & Databases
 ![Skills](https://skillicons.dev/icons?i=aws,mongodb,postgresql)

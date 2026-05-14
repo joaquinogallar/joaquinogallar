@@ -1,6 +1,6 @@
 # Joaquin Ogallar 
 
-Buenos Aires, currently working at **Distribuidora Sabbatini**
+Montevideo, Uruguay. Currently working at **Distribuidora Sabbatini**
 
 [**LeetCode Profile**](https://leetcode.com/u/joaquinogallar/)
 

@@ -18,8 +18,10 @@ I'm grateful to be doing what I love: solving problems by building software. I'm
 ### Cloud & Databases
 ![Skills](https://skillicons.dev/icons?i=aws,mongodb,postgresql)
 
-<!--
 ### Github Stats
+[![joaquinogallar's GitHub stats](https://phosphor-stats.rondrft.workers.dev/api?username=joaquinogallar&card=pass)](https://github.com/joaquinogallar)
+
+<!--
 ![joaquinogallar stats](https://github-readme-stats.vercel.app/api?username=joaquinogallar&show_icons=true&theme=tokyonight&hide_border=true) </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinogallar&layout=donut&theme=tokyonight&hide_border=true) </br>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=joaquinogallar&theme=tokyonight&hide_border=true)

@@ -19,7 +19,9 @@ I'm grateful to be doing what I love: solving problems by building software. I'm
 ![Skills](https://skillicons.dev/icons?i=aws,mongodb,postgresql)
 
 ### Github Stats
-[![joaquinogallar's GitHub stats](https://phosphor-stats.rondrft.workers.dev/api?username=joaquinogallar&card=pass)](https://github.com/joaquinogallar)
+[![joaquinogallar's GitHub stats](https://gstats.rondrft.workers.dev/api?username=joaquinogallar&card=pass&lang_mode=repos&accent=f9f06b)](https://github.com/joaquinogallar)
+
+[![joaquinogallar's GitHub stats](https://gstats.rondrft.workers.dev/api?username=joaquinogallar&lang_mode=repos&accent=f9f06b)](https://github.com/joaquinogallar)
 
 <!--
 ![joaquinogallar stats](https://github-readme-stats.vercel.app/api?username=joaquinogallar&show_icons=true&theme=tokyonight&hide_border=true) </br>
